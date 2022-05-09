@@ -1,5 +1,5 @@
 # Mini shell With pipe - operating systems 
-============================================
+======================================================================================
 
 mini shell operating systems with pipe (Single or double pipe support (but no more)).
 
